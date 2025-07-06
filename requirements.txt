@@ -4,3 +4,4 @@ scikit-learn==1.7.0
 xgboost==2.0.3
 joblib>=1.2,<2.0
 gradio>=4.0,<5.0
+gdown>=4.7,<5.0

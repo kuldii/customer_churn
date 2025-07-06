@@ -1,0 +1,15 @@
+name: customer-churn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.23,<2.0
+  - pandas>=1.5,<3.0
+  - scikit-learn==1.7.0
+  - xgboost==2.0.3
+  - joblib>=1.2,<2.0
+  - pip
+  - pip:
+      - gradio>=4.0,<5.0
+      - streamlit>=1.30,<2.0
+      - gdown>=4.7,<5.0
