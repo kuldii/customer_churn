@@ -137,7 +137,7 @@ docker run -p 9002:9002 customer-churn
 
 ## 🌐 Demo & Credits
 - **Author**: Sandikha Rahardi (Kuldii Project)
-- **Website**: https://hello.kuldiiproject.com/customer_churn
+- **Website**: https://kuldiiproject.com
 - **Dataset**: [Kaggle Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **UI**: [Gradio](https://gradio.app/)
 - **ML**: [Scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.readthedocs.io/)
